@@ -8,6 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
+//! Project version number for POSJSONParsing.
+FOUNDATION_EXPORT double POSJSONParsingVersionNumber;
+
+//! Project version string for POSJSONParsing.
+FOUNDATION_EXPORT const unsigned char POSJSONParsingVersionString[];
+
 NS_ASSUME_NONNULL_BEGIN
 
 @class POSJSONObject;
